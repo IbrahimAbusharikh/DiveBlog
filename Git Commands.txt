@@ -1,0 +1,51 @@
+CMD commands
+cd .. - backward
+cd [name] - forward
+ls - list all items in directory
+mkdir [name] - make directory
+rm -r [name] - remove directory
+cd. > [name.ext] - create file
+[name] - open file
+start [name] - open file explorer
+"[app path]" "[name]" - open filw with app
+ 
+************************************
+01. go to repository in command line.
+02. git clone [link] - clone respository.
+03. add/update/remove new file to respository.
+04. cd [name] - move to respository.
+05. git status - show files to sync.
+06. git add [filename] - add file.
+07. git commit -m '[message]'- lock to respository.
+08. git push - upload to github.com.
+09. git pull - download from github.com.
+10. git add . / git add -A - add all.
+11. git - list all git commands.
+
+************************************
+when commit without -m command. multiline message.
+press ESC -> :wq - release.
+
+************************************
+
+GITHUB PULL REQUEST, Branching, Merging & Team Workflow
+
+Branshing:
+01. git pull - from master folder.
+02. git branch [name] - to add new branch (complete copy).
+03. git checkout [name] - to go in branch.
+04. do modification on branch.
+05. git status - check your work.
+06. git add -A - add all changes.
+07. git commit - m '[message]'.
+08. git checkout master - to check changes in master.
+09. git checkout [name]- return to name.
+10. git merge master - update changes from branch to master.
+11. sometimes there be conflict.
+12. git status.
+13. git add -A - add all changes.
+14. git commit - m '[message]'.
+15. git push - upload to github.com. (git push --set-upstream origin [name]).
+
+
+
