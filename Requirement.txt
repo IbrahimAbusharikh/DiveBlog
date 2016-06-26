@@ -1,0 +1,8 @@
+01. Create an account @ 'github.com'
+
+02. Download git package from link below:
+	https://git-scm.com/downloads
+
+03. Download 'Subline Text 3' from link below:
+	https://www.sublimetext.com/3
+
